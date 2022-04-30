@@ -112,7 +112,6 @@ input, select, textarea {
   ul li:last-child {
     border-bottom: none
 
-p.dashed {border-style: dashed;}
 /* Basic */
 @-ms-viewport {
   width: device-width; }
